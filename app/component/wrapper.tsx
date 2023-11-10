@@ -2,7 +2,7 @@
 'use client'
 const wrapper = ({children}) => {
   return (
-    <div className="w-60 p-8 mt-16 rounded-3xl shadow-xl ">
+    <div className=" p-8 mt-16 rounded-3xl shadow-xl ">
       {children}
     </div>
   )

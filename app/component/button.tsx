@@ -3,8 +3,8 @@ const button = (value) => {
   
   
   return (
-    <button className="p-80 m-80">
-      {value}
+    <button className="">
+      {/* {value} */}
       
     </button>
   )

@@ -1,7 +1,7 @@
 'use client'
 const buttonBox = ({children}) => {
   return (
-    <div className='mt-16'>
+    <div className='grid grid-cols-4 gap-1 '>
       {children}
     </div>
   )
