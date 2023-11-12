@@ -4,7 +4,7 @@ const button = (value) => {
   
   return (
     <button className="">
-      {/* {value} */}
+      {/* {value} h */}
       
     </button>
   )
